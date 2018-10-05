@@ -1,4 +1,4 @@
-div.Head {
+.Head {
 	
 	background-color: dodgerblue;
 	height: 200px;
@@ -8,7 +8,7 @@ div.Head {
 }
 
 
-div.HeadInfo {
+.HeadInfo {
 	text-align: center;
 	background-color: dodgerblue;
 	width: 300px;
@@ -27,3 +27,11 @@ h1{
 	color: white;
 	font-family: Arial, Helvetica, sans-serif;
 }
+
+.grid {
+	display: inline-grid;
+	width: 1000px;
+	grid-template-columns: 300px 500px;
+
+}
+
