@@ -34,4 +34,7 @@ h1{
 	grid-template-columns: 300px 500px;
 
 }
+.contact-section {
+	background-color: lightgray;
+}
 
