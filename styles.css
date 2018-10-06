@@ -35,6 +35,7 @@ h1{
 	position: relative;
 	bottom: 100px;
 	left: 300px;
+	grid-column-gap: 15px;
 
 }
 .contact-section {
