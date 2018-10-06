@@ -32,9 +32,16 @@ h1{
 	display: inline-grid;
 	width: 1000px;
 	grid-template-columns: 300px 500px;
+	position: relative;
+	bottom: 100px;
+	left: 300px;
 
 }
 .contact-section {
 	background-color: lightgray;
 }
+img['src'] {
+	border-radius: 100%;
+}
+
 
