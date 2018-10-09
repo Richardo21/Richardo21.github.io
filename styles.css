@@ -50,6 +50,13 @@ img.RichardoPic {
 	position: relative;
 	top: 10px;
 }
+
+.phone-number ,.email , .website, .instagram{
+	display: inline;
+	margin:5px;
+}
+
+
  .list {
  	display:grid;
  	width: 100px;
