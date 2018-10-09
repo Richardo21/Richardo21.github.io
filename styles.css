@@ -45,6 +45,11 @@ h1{
 img.RichardoPic {
 	border-radius: 100%;
 }
+.Pic-of-Ric{
+	text-align:center;
+	position: relative;
+	top: 10px;
+}
  .list {
  	display:grid;
  	width: 100px;
