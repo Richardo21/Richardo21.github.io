@@ -45,5 +45,11 @@ h1{
 img['src'] {
 	border-radius: 100%;
 }
+ .list {
+ 	display:grid;
+ 	width: 100px;
+ 	align-content: right;
+ 	
 
+ }
 
