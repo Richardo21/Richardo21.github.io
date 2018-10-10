@@ -56,7 +56,42 @@ img.RichardoPic {
 	margin:5px;
 }
 
+#hori-line {
+	width:500px;
+	height: 2px;
+	background-color: silver;
 
+}
+
+.date1{
+	font-weight: bold;
+}
+
+.Job-Position{
+	float:right;
+	position:relative;
+	bottom:60px;
+	right: 300px;
+}
+
+.Pos-Descrip{
+	position: relative;
+	left: 100px;
+}
+/*.Job-Position{
+	float: right;
+	position: relative;
+	bottom: 55px;
+}*/
+
+
+/*.a{
+	width: 300px;
+}
+.b{
+	width: 300px;
+}
+*/
  .list {
  	display:grid;
  	width: 100px;
