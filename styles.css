@@ -63,14 +63,14 @@ img.RichardoPic {
 
 }
 
-.date1{
+.date1, .date2{
 	font-weight: bold;
 }
 
 .Job-Position{
 	float:right;
 	position:relative;
-	bottom:60px;
+	bottom:55px;
 	right: 300px;
 }
 
@@ -78,24 +78,26 @@ img.RichardoPic {
 	position: relative;
 	left: 100px;
 }
-/*.Job-Position{
+
+.Degree{
 	float: right;
 	position: relative;
 	bottom: 55px;
-}*/
-
-
-/*.a{
-	width: 300px;
+	right: 185px;
 }
-.b{
-	width: 300px;
+
+.Deg-Descrip{
+	position: relative;
+	left: 105px;
 }
-*/
+
  .list {
- 	display:grid;
- 	width: 100px;
- 	align-content: right;
+ 	width: 120px;
+ 	float: right;
+ 	position: relative;
+ 	bottom: 100px;
+ 	right: 130px;
+ 	
  	
 
  }
