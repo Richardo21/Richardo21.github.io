@@ -44,6 +44,8 @@ h1{
 }
 img.RichardoPic {
 	border-radius: 100%;
+	width: 100px;
+	height:100px;
 }
 .Pic-of-Ric{
 	text-align:center;
