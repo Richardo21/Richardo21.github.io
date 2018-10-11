@@ -14,7 +14,7 @@
 	width: 300px;
 	position: relative;
 	bottom: 175px;
-	left:450px;
+	left:435px;
 	border: thin solid white;
 	padding: 3px 60px;
 }
@@ -30,14 +30,14 @@ h1{
 
 .grid {
 	display: inline-grid;
-	width: 1000px;
+	width: 820px;
 	grid-template-columns: 300px 500px;
 	position: relative;
 	bottom: 100px;
-	left: 250px;
+	left: 240px;
 	grid-column-gap: 15px;
-
 }
+
 .contact-section {
 	background-color: lightgray;
 	padding-left: 10px;
